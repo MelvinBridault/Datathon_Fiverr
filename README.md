@@ -25,7 +25,7 @@ Base de données fournies par le client / webscrapping du site limité
 
 ### Les critères de sélection pour la finale du 2 juillet 2021
 Les projets ont été sélectionnés selon des critères bien spécifiques comme :
-* 'originalité et la pertinence de la solution proposée
+* L'originalité et la pertinence de la solution proposée
 * La technicité
 * La qualité globale de la présentation
 * L'expérience utilisateur proposée
